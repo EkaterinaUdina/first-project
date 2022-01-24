@@ -8,4 +8,5 @@
 2. Методология БЭМ
 3. Позиционирование элементов
 
-## *Ссылка на просмотр проекта* https://ekaterinaudina.github.io/first-project/
+## *Ссылка на просмотр проекта*
+https://ekaterinaudina.github.io/first-project/
